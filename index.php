@@ -9,14 +9,6 @@
    // Mảng thơ đòi nợ Tết ở đây !!!!
    $poems = [
     "Tết này nhìn lên bầu trời...\nTrên trời có triệu vì sao\nVì sao lớn nhất: Sao chưa trả tiền?",
-    "Chạy theo xu hướng lì xì...\nChỉ mong xuân này mày lì xì nợ tao.",
-    "Chắc bạn chưa quên...\nNợ tao mày cứ lần khân\nTết này không trả tao cân cả làng",
-    "Tết này chẳng muốn ăn chơi...\nChỉ mong sớm được nợ đời trả xong!",
-    "Xuân này chẳng thiếu bánh chưng...\nChỉ thiếu mày trả cho tao vài đồng!",
-    "Năm nay đào mai nở khắp sân...\nNợ mày lãi suất giờ nhân mấy lần?",
-    "Bánh chưng xanh, dưa hành muối...\nNhưng nợ mày chưa trả thì xuân tao tàn.",
-    "Mứt ngon, bánh tét xanh rì...\nNhưng thiếu nợ mày sao mà ngon được?",
-    "Mai đào nở khắp mọi nơi...\nTết này mà thiếu nợ, tao phơi mày luôn."
    ];
    
    // Lấy danh sách ngân hàng từ API
